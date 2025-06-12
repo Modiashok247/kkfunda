@@ -1,1 +1,2 @@
- Hiall, here i am doing the git reset.
+ Hiall, here i am doing the git reset
+ i modified something`.
