@@ -1,1 +1,31 @@
- Hiall, here i am doing the git reset.
+[33mcommit b3d49ddf477ba7d8d4161409df97210c9e9a8712[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: modiashok247 <modiashok247@gmail.com>
+Date:   Thu Jun 12 20:44:09 2025 +0530
+
+    revert
+
+[33mcommit 7cef9c7425814836478a8cedce120f13ec5fa6fc[m
+Author: modiashok247 <modiashok247@gmail.com>
+Date:   Thu Jun 12 14:40:34 2025 +0530
+
+    Revertinf the file "modifed"
+    
+    This reverts commit bbb1a214a99bb17ce5c8de9da53c7858b08bb808.
+
+[33mcommit bbb1a214a99bb17ce5c8de9da53c7858b08bb808[m[33m ([m[1;31mak247/master[m[33m)[m
+Author: modiashok247 <modiashok247@gmail.com>
+Date:   Thu Jun 12 14:37:23 2025 +0530
+
+    modifed
+
+[33mcommit 75bec973ec940f9122343e41905f13aea323c596[m
+Author: ashokkumar325 <modiashok1997@gmail.com>
+Date:   Thu Jun 12 14:18:17 2025 +0530
+
+    second
+
+[33mcommit 1b38584001787341e213043715303a4c4306d5a7[m
+Author: ashokkumar325 <modiashok1997@gmail.com>
+Date:   Thu Jun 12 14:16:37 2025 +0530
+
+    reset first commit
